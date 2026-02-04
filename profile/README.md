@@ -60,7 +60,7 @@ Performance optimization through background processing maintains interface respo
 ## Screenshots
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbKRWUeilmCwOlURgRcvlnOyQC2l_XygJPA&s" width="824" alt="Kitware CMake Mac screenshot"/>
+  <img src="https://media.imgcdn.org/repo/2023/12/c-make/6572e0d7094fa-c-make-screenshot1.webp" width="824" alt="Kitware CMake Mac screenshot"/>
 </p>
 
 ---
